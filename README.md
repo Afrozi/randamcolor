@@ -1,0 +1,2 @@
+# randamcolor
+random color generater
